@@ -1,0 +1,5 @@
+Firsname Kanstantsin
+Surname Sushko
+Age 34
+Pets 2
+Salary one million dollars
