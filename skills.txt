@@ -4,3 +4,4 @@ Time managment
 Organizations
 Love of testing
 Basic knowledge ofdatabases/SQL
+Patience
